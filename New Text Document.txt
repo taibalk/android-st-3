@@ -1,0 +1,6 @@
+https://upaae.com/how-to-fix-cannot-resolve-symbol-r-error-in-android-studio/
+
+
+https://stackoverflow.com/questions/37015030/session-app-error-installing-apk
+
+https://stackoverflow.com/questions/13303544/how-to-solve-nullpointerexception-error-in-android
